@@ -1,0 +1,16 @@
+{
+    "configurations": [
+
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Start bot",
+            "runtimeExecutable": "npm",
+            "runtimeArgs": [
+                "start"
+            ],
+            "outputCapture": "std"
+        }
+
+    ]
+}

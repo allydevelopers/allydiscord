@@ -1,7 +1,15 @@
 {
-  "prefix": "a!",
-  "version": "non-production",
-  "token": "./token.json",
-  "databases": "./databases/",
-  "metaData": "./meta/"
+    "name": "Ally",
+    "prefix": "^",
+    "version": "indev",
+    "dbpath": "./js/databases/",
+    "color": "#0099FF",
+    "url": "https://allydiscord.github.io",
+    "icon": "/assets/icons/logo.png",
+    "team": [
+        {
+            "name": "LittleKitacho",
+            "members": [ "Owner", "Head Developer", "Support Team Lead" ]
+        }
+    ]
 }

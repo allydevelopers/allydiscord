@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "outDir": "js",
+        "allowJs": true,
+        "checkJs": true,
+        "rootDir": "src",
+        "sourceMap": true,
+        "removeComments": true,
+        "lib": [
+            "ES2019"
+        ]
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "js",
+        "./start.js",
+        "node_modules",
+        "public"
+    ]
+}
